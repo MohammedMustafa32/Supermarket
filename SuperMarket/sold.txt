@@ -1,7 +1,0 @@
-3		math		33		10
-1		dd		11		50
-2		asd		22		50
-9		ahmed		99		12
-2		asd		22		1
-2		asd		22		1
-2		wwe		22		1
