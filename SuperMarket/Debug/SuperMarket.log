@@ -1,0 +1,15 @@
+﻿  DisplayInfo.cpp
+K:\visual 2019\C++\SuperMarket\SuperMarket\DisplayInfo.cpp(1424,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+K:\visual 2019\C++\SuperMarket\SuperMarket\DisplayInfo.cpp(275): warning C4717: 'DisplayInfo::display_Admin_page': recursive on all control paths, function will cause runtime stack overflow
+K:\visual 2019\C++\SuperMarket\SuperMarket\DisplayInfo.cpp(435): warning C4717: 'DisplayInfo::display_One_User_Page': recursive on all control paths, function will cause runtime stack overflow
+K:\visual 2019\C++\SuperMarket\SuperMarket\DisplayInfo.cpp(379): warning C4717: 'DisplayInfo::display_One_Admin_Page': recursive on all control paths, function will cause runtime stack overflow
+K:\visual 2019\C++\SuperMarket\SuperMarket\DisplayInfo.cpp(310): warning C4717: 'DisplayInfo::display_User_page': recursive on all control paths, function will cause runtime stack overflow
+K:\visual 2019\C++\SuperMarket\SuperMarket\DisplayInfo.cpp(576): warning C4717: 'DisplayInfo::search_Admin_page': recursive on all control paths, function will cause runtime stack overflow
+K:\visual 2019\C++\SuperMarket\SuperMarket\DisplayInfo.cpp(625): warning C4717: 'DisplayInfo::search_User_page': recursive on all control paths, function will cause runtime stack overflow
+K:\visual 2019\C++\SuperMarket\SuperMarket\DisplayInfo.cpp(777): warning C4717: 'DisplayInfo::update_Admin_page': recursive on all control paths, function will cause runtime stack overflow
+K:\visual 2019\C++\SuperMarket\SuperMarket\DisplayInfo.cpp(831): warning C4717: 'DisplayInfo::update_User_page': recursive on all control paths, function will cause runtime stack overflow
+K:\visual 2019\C++\SuperMarket\SuperMarket\DisplayInfo.cpp(1097): warning C4717: 'DisplayInfo::delete_Admin_page': recursive on all control paths, function will cause runtime stack overflow
+K:\visual 2019\C++\SuperMarket\SuperMarket\DisplayInfo.cpp(1146): warning C4717: 'DisplayInfo::delete_User_page': recursive on all control paths, function will cause runtime stack overflow
+K:\visual 2019\C++\SuperMarket\SuperMarket\DisplayInfo.cpp(1512): warning C4717: 'DisplayInfo::sold_Admin_page': recursive on all control paths, function will cause runtime stack overflow
+K:\visual 2019\C++\SuperMarket\SuperMarket\DisplayInfo.cpp(1554): warning C4717: 'DisplayInfo::sold_User_page': recursive on all control paths, function will cause runtime stack overflow
+  SuperMarket.vcxproj -> K:\visual 2019\C++\SuperMarket\Debug\SuperMarket.exe

@@ -1,0 +1,30 @@
+1		Pepsi			11		39
+2		Eggo			33		10
+3		Apple			11		50
+4		Avocados		22		49
+6		Bananas			22		11
+7		Celery			100		41
+8		Melons			11		39
+9		Tomatoes		33		10
+10		Biscuits	    11		50
+11		Cheese			22		49
+12		Dips		    99		12
+13		Eggs			22		11
+14		Milk			100		41
+15		Bacon			11		39
+16		Steak			33		10
+17		Chicken			11		50
+19		Fish		    99		12
+20		Ham				22		11
+21		HotDogs			100		41
+22		Pork			11		39
+24		Salt			11		50
+25		Pepper			22		49
+29		Cinnamon		99		12
+30		Candy			22		11
+33		Cookies			99		12
+34		Salsa			22		11
+35		Nuts			100		41
+
+
+
